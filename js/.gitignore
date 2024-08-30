@@ -1,0 +1,11 @@
+/bin/
+# Ignore Eclipse project files
+.classpath
+.project
+.settings/
+
+# Ignore any compiled Java files (if applicable)
+*.class
+
+# Ignore any other unwanted directories or files
+bin/
