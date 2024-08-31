@@ -3,9 +3,16 @@ package com.tka.constructor;
 public class P2_Student {
 	String name;
 	int studid;
+
+//	
+//	P2_Student(String n, int s) {
+//		name = n;
+//		studid = s;
+//	}
 	
-	
-	public static void main(String[] args) {
-		System.out.println('j'+'k');
+	void output() {
+		System.out.println(name);
+		System.out.println(studid);
 	}
+
 }
